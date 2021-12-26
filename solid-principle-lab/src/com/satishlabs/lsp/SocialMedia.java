@@ -1,4 +1,5 @@
 package com.satishlabs.lsp;
+//Liskov Subsititution Principles
 
 //derived classes must be completely substitutable for their base classes.
 //In other words ,if class A is subtype of class B, 
