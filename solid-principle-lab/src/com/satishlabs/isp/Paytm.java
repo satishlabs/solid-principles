@@ -14,10 +14,10 @@ public class Paytm implements UPIPayments{
 		
 	}
 
-	@Override
-	public void getCashBackAsCreditBalance() {
-		//Not applicable, but it force to implements
-		
-	}
-
+	/*
+	 * @Override public void getCashBackAsCreditBalance() { //Not applicable, but it
+	 * force to implements
+	 * 
+	 * }
+	 */
 }

@@ -8,6 +8,6 @@ We should not force the client to use the methods that they do not want to use.
 public interface UPIPayments {
 	public void payMoney();
 	public void getScratchCard();
-	public void getCashBackAsCreditBalance();
+	//public void getCashBackAsCreditBalance();
 	
 }

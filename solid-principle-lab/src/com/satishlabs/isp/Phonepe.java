@@ -14,10 +14,11 @@ public class Phonepe implements UPIPayments{
 		
 	}
 
-	@Override
-	public void getCashBackAsCreditBalance() {
-		//Not applicable, but it inforce to implement
-		
-	}
+	/*
+	 * @Override public void getCashBackAsCreditBalance() { //Not applicable, but it
+	 * inforce to implement
+	 * 
+	 * }
+	 */
 
 }
